@@ -1,0 +1,8 @@
+- Pokud ještě nemáte, založte si účet na github.com
+- Nahlašte mi své uživatelské jméno, pro přidání do repozitáře
+- naklonujte si repozitář na lokální stanici přes visual studio nebo konzolovým příkazem
+- z hlavní MAIN větve vytvořte svou vlastní větev s názvem jmeno_task_01
+- vytvořte na dané větvi textový soubor file01.txt a do něj napište své jméno příjmení a datum
+- přidejte soubor do verze (add) a přichystejte verzi k odeslání (commit) a následně odešlete (push)
+- vytvořte požadavek na zavedení vaší větve do větve MAIN (požadavek vytvoříte v repositáři na github)
+- vyčkejte na schválení požadavku
