@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sladecek\\.nuget\\packages\\": {}
+    "C:\\Users\\ta2028\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sladecek\\source\\repos\\PGM_DEMO\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj",
+      "projectUniqueName": "C:\\Users\\ta2028\\Source\\Repos\\PGM_DEMO\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj",
       "projectName": "XX_11_StopWatch",
-      "projectPath": "C:\\Users\\sladecek\\source\\repos\\PGM_DEMO\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj",
-      "packagesPath": "C:\\Users\\sladecek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sladecek\\source\\repos\\PGM_DEMO\\XX_11_StopWatch\\XX_11_StopWatch\\obj\\",
+      "projectPath": "C:\\Users\\ta2028\\Source\\Repos\\PGM_DEMO\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj",
+      "packagesPath": "C:\\Users\\ta2028\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ta2028\\Source\\Repos\\PGM_DEMO\\XX_11_StopWatch\\XX_11_StopWatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sladecek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ta2028\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
