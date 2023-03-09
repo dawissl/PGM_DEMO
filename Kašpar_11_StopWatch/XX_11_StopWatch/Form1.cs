@@ -26,7 +26,7 @@ namespace XX_11_StopWatch
         {
             // Vyresetování stopek na hodnotu 00:00:0
             LblWatch.Text = "00:00:0";
-
+            time = 0;
         }
 
         private void TimerWatch_Tick(object sender, EventArgs e)
@@ -34,20 +34,17 @@ namespace XX_11_StopWatch
             // TODO  zvýšit èas a zobrazit jej ve formátu
             // minuty : sekundy : milisekundy
              time += 10;
-            int mil = 00;
-            int sec = 00;
-            int min = 00;
-            LblWatch.Text = $"{min}:{sec}:{mil}";
+            int mil = ((int)time % 1000)/10;
+            int sec = (int) time /60000;
+            int min = ((int)time - 60000 * min)/ 1000;
 
-            if (time > 100 )
-            {
-                int sec += 1;
-            }
-                
-                
-                 
-            
-          
+            string stringSeconds = (sec < 10) ? $"0{sec}" : $"{sec}";
+            string stringMinutes = (min < 10) ? $"0{min}" : $"{min}";
+
+
+
+
+
         }
     }
 }
