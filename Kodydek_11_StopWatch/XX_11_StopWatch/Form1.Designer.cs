@@ -33,7 +33,7 @@
             this.BtnStart = new System.Windows.Forms.Button();
             this.BtnStop = new System.Windows.Forms.Button();
             this.BtnReset = new System.Windows.Forms.Button();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.timer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // LblWatch
@@ -81,10 +81,10 @@
             this.BtnReset.UseVisualStyleBackColor = true;
             this.BtnReset.Click += new System.EventHandler(this.BtnReset_Click);
             // 
-            // timer1
+            // timer
             // 
-            this.timer1.Enabled = true;
-            this.timer1.Tick += new System.EventHandler(this.TimerWatch_Tick);
+            this.timer.Enabled = true;
+            this.timer.Tick += new System.EventHandler(this.TimerWatch_Tick);
             // 
             // Form1
             // 
@@ -108,6 +108,6 @@
         private Button BtnStart;
         private Button BtnStop;
         private Button BtnReset;
-        public System.Windows.Forms.Timer timer1;
+        public System.Windows.Forms.Timer timer;
     }
 }
