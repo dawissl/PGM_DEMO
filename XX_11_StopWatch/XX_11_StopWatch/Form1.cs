@@ -1,3 +1,5 @@
+using System.Diagnostics.Eventing.Reader;
+
 namespace XX_11_StopWatch
 {// pøejmenujete projekt ve formátu jmeno_11_StopWatch
     public partial class Form1 : Form
@@ -11,23 +13,33 @@ namespace XX_11_StopWatch
 
         private void BtnStart_Click(object sender, EventArgs e)
         {
-            //TODO spuštìní timeru pro odpoèet èasu
+            TimerWatch.Enabled = true;
         }
 
         private void BtnStop_Click(object sender, EventArgs e)
         {
-            //TODO pozastavení timeru pro odpoèet èasu
+            TimerWatch.Enabled = false;
         }
 
         private void BtnReset_Click(object sender, EventArgs e)
         {
-            // Vyresetování stopek na hodnotu 00:00:0
+            TimerWatch.Stop();
+            TimerWatch.Start();
         }
 
         private void TimerWatch_Tick(object sender, EventArgs e)
         {
-            // TODO  zvýšit èas a zobrazit jej ve formátu
-            // minuty : sekundy : milisekundy
+            time += 10;
+            int ms = ((int)time % 1000) / 10;
+            int minuty = (int)time / 60000;
+            int sekundy = ((int)time - 60000 * minuty) / 100;
+
+            string stringSeconds = (sekundy < 10) ? $"0{sekundy}" : $"{sekundy}";
+            string stringMinutes = (minuty < 10) ? $"0{minuty}" : $"{minuty}";
+
+
+
+
         }
     }
 }
