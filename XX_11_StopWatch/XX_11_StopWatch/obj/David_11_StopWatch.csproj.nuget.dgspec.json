@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj": {}
+    "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\David_11_StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj": {
+    "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\David_11_StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj",
-        "projectName": "XX_11_StopWatch",
-        "projectPath": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\XX_11_StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\David_11_StopWatch.csproj",
+        "projectName": "David_11_StopWatch",
+        "projectPath": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\David_11_StopWatch.csproj",
         "packagesPath": "C:\\Users\\ta2008\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\9.2\\XX_11_StopWatch\\XX_11_StopWatch\\obj\\",
         "projectStyle": "PackageReference",
