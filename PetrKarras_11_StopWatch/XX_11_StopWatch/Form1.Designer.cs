@@ -83,7 +83,6 @@
             // TimerWatch
             // 
             this.TimerWatch.Enabled = true;
-            this.TimerWatch.Interval = 10;
             this.TimerWatch.Tick += new System.EventHandler(this.TimerWatch_Tick);
             // 
             // Form1
