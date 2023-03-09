@@ -40,7 +40,7 @@
             // 
             this.LblWatch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.LblWatch.Font = new System.Drawing.Font("Segoe UI", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.LblWatch.Location = new System.Drawing.Point(54, 43);
+            this.LblWatch.Location = new System.Drawing.Point(54, 42);
             this.LblWatch.Name = "LblWatch";
             this.LblWatch.Size = new System.Drawing.Size(411, 137);
             this.LblWatch.TabIndex = 0;
