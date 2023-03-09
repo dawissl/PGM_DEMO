@@ -39,12 +39,11 @@
             // LblWatch
             // 
             this.LblWatch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.LblWatch.Font = new System.Drawing.Font("Segoe UI", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.LblWatch.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblWatch.Location = new System.Drawing.Point(54, 43);
             this.LblWatch.Name = "LblWatch";
-            this.LblWatch.Size = new System.Drawing.Size(411, 137);
+            this.LblWatch.Size = new System.Drawing.Size(788, 137);
             this.LblWatch.TabIndex = 0;
-            this.LblWatch.Text = "00:50:0";
             this.LblWatch.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // BtnStart
@@ -90,7 +89,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(510, 292);
+            this.ClientSize = new System.Drawing.Size(999, 292);
             this.Controls.Add(this.BtnReset);
             this.Controls.Add(this.BtnStop);
             this.Controls.Add(this.BtnStart);
