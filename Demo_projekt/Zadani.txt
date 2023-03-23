@@ -1,0 +1,14 @@
+1) Vytvoøte vlastní vìtev ve formatu demo_prijmeni
+2) Na vlatní vìtvi vytvoøte v projektu Demo_projekt Nové formuláøové okno pojmenované FormPrijmeni
+3) Toto vytvoøené okno vyvolejte jako modálí dialog po stisknutí tlaèítka s vaším jménem
+4) Ve vytvoøením dialogovém oknì øeštì úlohu výpisu prvoèísel
+
+Úloha výpisu prvoèísel
+ - vstup: dvì hodnoty rozsahu
+ - výstup: seznam prvoèísel v daném rozsahu (v pøípadì neexistence prvoèísel informujeme uživatele)
+
+ vstupní hodnoty jsou ošetøené, aby levá hodnota intervalu byla menší rovna pravé hodnotì
+
+ jednotlivé komponenty vstupu a výstupu jsou vhodnì pojmenovány. Stejnì tak používané promìnné
+ 
+ práce obsahuje vlastní funkci private bool IsPrime(int num), která rozhoduje, zda je vstupní èíslo prvoèíslem.

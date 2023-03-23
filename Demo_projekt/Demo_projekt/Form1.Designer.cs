@@ -81,6 +81,7 @@
             this.BtnJakubysyn.TabIndex = 3;
             this.BtnJakubysyn.Text = "Jakubyšyn";
             this.BtnJakubysyn.UseVisualStyleBackColor = true;
+            this.BtnJakubysyn.Click += new System.EventHandler(this.BtnJakubysyn_Click);
             // 
             // BtnJedlicka
             // 
