@@ -153,6 +153,7 @@
             this.BtnPetruska.TabIndex = 11;
             this.BtnPetruska.Text = "Petruška";
             this.BtnPetruska.UseVisualStyleBackColor = true;
+            this.BtnPetruska.Click += new System.EventHandler(this.BtnPetruska_Click);
             // 
             // BtnSemenec
             // 
