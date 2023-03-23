@@ -135,6 +135,7 @@
             this.BtnMitterko.TabIndex = 9;
             this.BtnMitterko.Text = "Mitterko";
             this.BtnMitterko.UseVisualStyleBackColor = true;
+            this.BtnMitterko.Click += new System.EventHandler(this.BtnMitterko_Click);
             // 
             // BtnParnai
             // 
