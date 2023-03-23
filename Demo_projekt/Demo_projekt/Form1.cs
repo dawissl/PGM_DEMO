@@ -12,5 +12,11 @@ namespace Demo_projekt
             
             new FormUkazka().ShowDialog();
         }
+
+        private void BtnBoruvka_Click(object sender, EventArgs e)
+        {
+            new FormBoruvka().ShowDialog();
+
+        }
     }
 }

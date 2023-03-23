@@ -54,6 +54,7 @@
             this.BtnBoruvka.TabIndex = 0;
             this.BtnBoruvka.Text = "Borůvka";
             this.BtnBoruvka.UseVisualStyleBackColor = true;
+            this.BtnBoruvka.Click += new System.EventHandler(this.BtnBoruvka_Click);
             // 
             // BtnCermak
             // 
