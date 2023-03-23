@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_projekt", "Demo_projekt\Demo_projekt.csproj", "{B267EB2F-D06C-4668-A48E-3B507532532E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_projekt", "Demo_projekt\Demo_projekt.csproj", "{B267EB2F-D06C-4668-A48E-3B507532532E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Položky řešení", "Položky řešení", "{95A69956-6BC1-45BB-A27B-8FC038ED97E6}"
+	ProjectSection(SolutionItems) = preProject
+		Zadani.txt = Zadani.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
