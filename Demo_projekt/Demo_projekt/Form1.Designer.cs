@@ -108,6 +108,7 @@
             this.BtnKaspar.TabIndex = 6;
             this.BtnKaspar.Text = "Kašpar";
             this.BtnKaspar.UseVisualStyleBackColor = true;
+            this.BtnKaspar.Click += new System.EventHandler(this.BtnKaspar_Click);
             // 
             // BtnKlamta
             // 
