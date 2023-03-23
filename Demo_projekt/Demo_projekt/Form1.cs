@@ -9,8 +9,12 @@ namespace Demo_projekt
 
         private void BtnExample_Click(object sender, EventArgs e)
         {
-            
             new FormUkazka().ShowDialog();
+        }
+
+        private void BtnKarras_Click(object sender, EventArgs e)
+        {
+            new FormKarras().ShowDialog();
         }
     }
 }

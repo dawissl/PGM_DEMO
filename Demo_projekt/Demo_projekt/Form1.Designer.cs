@@ -99,6 +99,7 @@
             this.BtnKarras.TabIndex = 5;
             this.BtnKarras.Text = "Karras";
             this.BtnKarras.UseVisualStyleBackColor = true;
+            this.BtnKarras.Click += new System.EventHandler(this.BtnKarras_Click);
             // 
             // BtnKaspar
             // 
