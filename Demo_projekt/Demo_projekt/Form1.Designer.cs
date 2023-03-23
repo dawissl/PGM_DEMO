@@ -117,6 +117,7 @@
             this.BtnKlamta.TabIndex = 7;
             this.BtnKlamta.Text = "Klamta";
             this.BtnKlamta.UseVisualStyleBackColor = true;
+            this.BtnKlamta.Click += new System.EventHandler(this.BtnKlamta_Click);
             // 
             // BtnKodydek
             // 

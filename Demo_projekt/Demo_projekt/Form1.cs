@@ -12,5 +12,10 @@ namespace Demo_projekt
             
             new FormUkazka().ShowDialog();
         }
+
+        private void BtnKlamta_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
