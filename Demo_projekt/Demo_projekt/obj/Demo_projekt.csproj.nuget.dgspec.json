@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sladecek\\Desktop\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj": {}
+    "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\stopwatch\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sladecek\\Desktop\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj": {
+    "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\stopwatch\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sladecek\\Desktop\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
+        "projectUniqueName": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\stopwatch\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
         "projectName": "Demo_projekt",
-        "projectPath": "C:\\Users\\sladecek\\Desktop\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
-        "packagesPath": "C:\\Users\\sladecek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sladecek\\Desktop\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\obj\\",
+        "projectPath": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\stopwatch\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
+        "packagesPath": "C:\\Users\\ta2008\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ta2008\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\Plocha\\stopwatch\\Demo_projekt\\Demo_projekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sladecek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ta2008\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

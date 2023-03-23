@@ -90,6 +90,7 @@
             this.BtnJedlicka.TabIndex = 4;
             this.BtnJedlicka.Text = "Jedlička";
             this.BtnJedlicka.UseVisualStyleBackColor = true;
+            this.BtnJedlicka.Click += new System.EventHandler(this.BtnJedlicka_Click);
             // 
             // BtnKarras
             // 
