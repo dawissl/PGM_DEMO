@@ -16,25 +16,31 @@ namespace Demo_projekt
         {
             InitializeComponent();
         }
-
         private void Butt_Click(object sender, EventArgs e)
         {
-            int start = Convert.ToInt32(NumUDStart);
-            if (NumUDStart.Value < NumUDend.Value)
+            RTextBoxOUT.Text = "";
+            int start = Convert.ToInt32(NumUDStart.Value);
+            int end = Convert.ToInt32(NumUDEnd.Value);
+            if (NumUDStart.Value <= NumUDEnd.Value)
             {
-                int tmp = 1;
-                while (start != NumUDend.Value)
+
+                for (int i = start; i <= end; i++)
                 {
-                    
-                    if (start % tmp == 0 && tmp != 1 || tmp != start)
+                    int tmp = 0;
+                    for (int j = 1; j <= end; j++)
                     {
-                        LblOUT.Text += $"\n{start}";
+                        if (i % j == 0)
+                        {
+                            tmp++;
+                        }
                     }
-                    start++;
+                    if (tmp <= 2)
+                    {
+                        RTextBoxOUT.Text += i.ToString() + Environment.NewLine;
+                    }
                 }
-
-
             }
         }
+
     }
 }

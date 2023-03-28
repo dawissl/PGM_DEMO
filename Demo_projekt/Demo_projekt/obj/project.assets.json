@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ta2009\\.nuget\\packages\\": {}
+    "C:\\Users\\LYNX\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
+      "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
       "projectName": "Demo_projekt",
-      "projectPath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
-      "packagesPath": "C:\\Users\\ta2009\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\obj\\",
+      "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\Demo_projekt.csproj",
+      "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\PGM_DEMO\\Demo_projekt\\Demo_projekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ta2009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
