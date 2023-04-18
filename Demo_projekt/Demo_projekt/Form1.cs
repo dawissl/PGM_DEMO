@@ -12,5 +12,10 @@ namespace Demo_projekt
             
             new FormUkazka().ShowDialog();
         }
+
+        private void BtnJakubysyn_Click(object sender, EventArgs e)
+        {
+            new FormJakubysyn().ShowDialog();
+        }
     }
 }

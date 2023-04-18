@@ -4,6 +4,9 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormJakubysyn.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormUkazka.cs">
       <SubType>Form</SubType>
     </Compile>
